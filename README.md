@@ -5,9 +5,9 @@
   
 - 📱 **WhatsApp Me**: [+92 322 642 3043] – Available for quick chats, collaboration ideas, and tech talk!
 
-- 🔭 **I’m currently working on**: Advanced Expense Tracker App with Context API and Tailwind CSS
+- 🔭 **I’m currently working on**: Socail App Tracker App with Context API and Tailwind CSS
 
-- 🌱 **I’m currently learning**: React useReducer, Async JavaScript, API Integration
+- 🌱 **I’m currently learning**: React useReducer, Async JavaScript, API Integration , Redux
 
 - 👯 **I’m looking to collaborate on**: Frontend-based Projects, Open Source Contributions, or Web Apps
 
