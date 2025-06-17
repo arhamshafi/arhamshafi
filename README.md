@@ -7,7 +7,7 @@
 
 - 🔭 **I’m currently working on**: Socail App Tracker App with Context API and Tailwind CSS
 
-- 🌱 **I’m currently learning**: React useReducer, Async JavaScript, API Integration , Redux
+- 🌱 **I’m currently learning**: React useReducer, Async JavaScript, API Integration , Redux Toolkit
 
 - 👯 **I’m looking to collaborate on**: Frontend-based Projects, Open Source Contributions, or Web Apps
 
