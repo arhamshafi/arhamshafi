@@ -13,7 +13,7 @@
 
 - 🤔 **I’m looking for help with**: Building Production-ready UIs and Deployment Best Practices
 
-- 💬 **Ask me about**: Frontend Development, React, JavaScript, Tailwind CSS
+- 💬 **Portfolio Here**: https://frontend-portfolio-masb.netlify.app/
 
 - 📫 **How to reach me**: arhamshafib@gmail.com / WhatsApp
 
