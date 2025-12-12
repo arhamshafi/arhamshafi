@@ -1,21 +1,61 @@
-**A passionate Full Stack Developer** || Frontend & Backend Enthusiast || MERN + Next.js Learner from Pakistan 🚀
+<h1 align="center">🚀 Full Stack Developer | MERN & Next.js Enthusiast</h1>
 
-📧 **Email Me:** [arhamshafib@gmail.com](mailto:arhamshafib@gmail.com) for Collaboration, Remote Internships, or Any Cool Projects 😎
+<p align="center">
+  Passionate about building fast, scalable, and modern web applications.  
+  Love converting complex logic into clean UI & smooth user experiences.
+</p>
 
-📱 **WhatsApp Me:** [+92 322 642 3043](https://wa.me/923226423043) – Quick chats, collaboration ideas, or tech talk! 💬
+---
 
-🔭 **I’m currently working on:** Social / Chat Apps with **Redux Toolkit**, **Context API**, **Tailwind CSS**, and Mini MERN E-Commerce Projects 🛒✨
+### 📧 Contact Me  
+- **Email:** arhamshafib@gmail.com  
+- **WhatsApp:** +92 322 642 3043  
 
-🌱 **I’m currently learning:** Next.js Advanced Concepts, NestJS Backend Architecture, React Native (Mobile Apps), Socket.io Real-time Apps, AI Integration 🤖
+---
 
-👯 **I’m looking to collaborate on:** Full Stack Projects, Open Source Contributions, Web & Mobile Apps 🌐📱
+### 🔭 Currently Working On  
+- Social / Chat Applications  
+- Mini MERN E-Commerce Projects  
+- UI/UX Enhancements with Tailwind CSS  
+- Redux Toolkit & Context API Based State Management  
 
-🤔 **I’m looking for help with:** Building Production-ready UIs, Scalable Backend, AI integrations, and Deployment Best Practices ⚡
+---
 
-💬 **Portfolio Here:** [https://frontend-portfolio-masb.netlify.app](https://frontend-portfolio-masb.netlify.app) 💻
+### 🌱 Currently Learning  
+- **Next.js Advanced Concepts**  
+- **NestJS Backend Architecture**  
+- **React Native** (Mobile Apps)  
+- **Socket.io** Real-time Apps  
+- **AI Integrations** 🤖  
 
-📫 **How to reach me:** [arhamshafib@gmail.com](mailto:arhamshafib@gmail.com) / WhatsApp
+---
 
-😄 **Pronouns:** He/Him
+### 🤝 Looking to Collaborate On  
+- Full Stack MERN Projects  
+- Web & Mobile Apps  
+- Open Source Contributions  
 
-⚡ **Fun fact:** I enjoy turning complex logic into clean, responsive UI; bugs don’t scare me — they excite me! 🐛🔥
+---
+
+### 🤔 Seeking Guidance In  
+- Production Ready UI  
+- Scalable Backend Structure  
+- AI Tools & Integrations  
+- Deployment Best Practices  
+
+---
+
+### 💼 Portfolio  
+👉 **https://frontend-portfolio-masb.netlify.app**
+
+---
+
+### 😄 Pronouns  
+**He/Him**
+
+---
+
+### ⚡ Fun Fact  
+I enjoy turning complex logic into smooth UI — debugging feels like solving puzzles! 🐛🔥
+
+---
