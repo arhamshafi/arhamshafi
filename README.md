@@ -2,8 +2,8 @@
 
 <p align="center">
   Passionate about building fast, scalable, and modern web applications.  
-  Now expanding into backend architecture & mobile app development.  
-  Love turning complex logic into clean UI & smooth user experiences.
+  Now expanding into backend architecture, AI integrations & mobile app development.  
+  Delivered real business websites with admin dashboards and automation systems.
 </p>
 
 ---
@@ -17,24 +17,27 @@
 ### 🔥 What I’ve Built  
 - 🛒 **Full MERN E-Commerce Website** with maximum features (Admin Dashboard, Auth, Cart Logic, Payments, Filters & more)  
 - 🏫 **Course Selling / Institute Website** with student enrollments & secure authentication  
-- ✍️ **Next.js Blog Application** with SEO, dynamic routing & full CMS-like structure  
+- 🏩 **Adam Palace – Live Marquee Website (Next.js)** with a fully custom & unique Admin Dashboard for bookings, gallery & content management  
+- ✍️ **Next.js Blog Application** with SEO, dynamic routing & CMS-like structure  
+- 🤖 **AI Integrated Web Features** (Smart forms, automation, dynamic suggestions)
 
 ---
 
 ### 🔭 Currently Working On  
 - ⚙️ **NestJS Backend Development** (Modular Architecture, Auth, MongoDB, Mongoose)  
-- 📱 **Mobile App Development** (React Native – coming next)  
-- ⚡ API Performance Optimization  
-- 🎨 UI/UX Enhancements using Tailwind CSS  
+- 🤖 **AI Integrations** (Automation workflows, AI-driven UI features)  
+- 📱 **Mobile App Development (React Native)**  
+- ⚡ **API Performance Optimization**  
+- 🎨 **UI/UX Enhancements using Tailwind CSS & Framer Motion**  
 
 ---
 
 ### 🌱 Currently Learning  
 - **NestJS Advanced Backend Patterns**  
 - **Next.js Deep Concepts (SEO, Server Actions, ISR)**  
-- **React Native** for cross-platform apps  
+- **React Native**  
 - **Real-time Apps with Socket.io**  
-- **AI Integrations** 🤖  
+- **AI Tools & Automations** 🤖  
 
 ---
 
@@ -42,6 +45,7 @@
 - Full Stack MERN + Next.js Projects  
 - Scalable Backend Systems (NestJS / Express)  
 - Web & Mobile App Development  
+- AI-Enhanced Applications  
 - Open Source Contributions  
 
 ---
@@ -57,9 +61,9 @@
 ### 💼 Portfolio  
 👉 **https://frontend-portfolio-masb.netlify.app**
 
-
 ### Recent Project 
 👉 **https://www.adam-palace.com/**
+
 ---
 
 ### 😄 Pronouns  
