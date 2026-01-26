@@ -72,4 +72,4 @@
 ---
 
 ### ⚡ Fun Fact  
-Debugging feels like solving puzzles — and I enjoy every tough bug I crush! 🐛🔥
+Debugging feels like solving puzzles — and I enjoy every tough bug I crush!  🐛🔥
