@@ -1,75 +1,80 @@
-<h1 align="center">🚀 Full Stack Developer | MERN, Next.js & NestJS Enthusiast</h1>
+<h1 align="center">🚀 Full Stack Developer (MERN, Next.js & NestJS Learner)</h1>
 
 <p align="center">
-  Passionate about building fast, scalable, and modern web applications.  
-  Now expanding into backend architecture, AI integrations & mobile app development.  
-  Delivered real business websites with admin dashboards and automation systems.
+  I’m a passionate Full Stack Developer currently completing my professional Full Stack Development course.  
+  I build real-world applications and run my freelance web development brand <strong>Arhafi</strong>.  
+  My focus is on creating scalable, fast and modern web solutions for businesses.
 </p>
 
 ---
 
-### 📧 Contact Me  
+### 📧 Contact  
 - **Email:** arhamshafib@gmail.com  
 - **WhatsApp:** +92 322 642 3043  
 
 ---
 
-### 🔥 What I’ve Built  
-- 🛒 **Full MERN E-Commerce Website** with maximum features (Admin Dashboard, Auth, Cart Logic, Payments, Filters & more)  
-- 🏫 **Course Selling / Institute Website** with student enrollments & secure authentication  
-- 🏩 **Adam Palace – Live Marquee Website (Next.js)** with a fully custom & unique Admin Dashboard for bookings, gallery & content management  
-- ✍️ **Next.js Blog Application** with SEO, dynamic routing & CMS-like structure  
-- 🤖 **AI Integrated Web Features** (Smart forms, automation, dynamic suggestions)
+### 🔥 Projects I’ve Built  
+- 🛒 **MERN E-Commerce Website** (Auth, Cart, Filters, Admin Panel, Payments)  
+- 🏫 **Course Selling / Institute Website** with secure student authentication  
+- ✍️ **Next.js Blog Application** with SEO & dynamic routing  
+- 🤖 **AI-based Features** (Smart forms, automation, suggestions)  
+
+---
+
+### 🧩 Freelance Brand — ARHAFI  
+- 🌐 Website: https://arhafi.com  
+- 🚀 Offering professional web development services  
+- 💼 Delivered business websites, dashboards & management systems  
+- ⚡ Focus on performance, clean UI/UX and scalable solutions  
+
+---
+
+### 🌟 Latest Live Projects  
+- 🏩 **Adam Palace – Marquee Website (Next.js + Custom Admin Panel)**  
+  👉 https://www.adam-palace.com/  
+
+- 🌐 **ARHAFI – My Freelance Brand Website**  
+  👉 https://arhafi.com  
 
 ---
 
 ### 🔭 Currently Working On  
-- ⚙️ **NestJS Backend Development** (Modular Architecture, Auth, MongoDB, Mongoose)  
-- 🤖 **AI Integrations** (Automation workflows, AI-driven UI features)  
-- 📱 **Mobile App Development (React Native)**  
-- ⚡ **API Performance Optimization**  
-- 🎨 **UI/UX Enhancements using Tailwind CSS & Framer Motion**  
+- ⚙️ **NestJS Backend Development** (Modular structure, Auth, MongoDB)  
+- 🤖 **AI Integrations** for automation workflows  
+- 📱 **React Native Mobile Apps**  
+- 🎨 **UI/UX Enhancements** with Tailwind + Framer Motion  
+- ⚡ **API Optimization**
 
 ---
 
-### 🌱 Currently Learning  
-- **NestJS Advanced Backend Patterns**  
-- **Next.js Deep Concepts (SEO, Server Actions, ISR)**  
-- **React Native**  
-- **Real-time Apps with Socket.io**  
-- **AI Tools & Automations** 🤖  
+### 🌱 Learning  
+- NestJS Advanced Patterns  
+- Next.js Deep Concepts (SEO, Server Actions, ISR)  
+- Real-time apps with Socket.io  
+- AI Tools & automation flows  
+- React Native
 
 ---
 
-### 🤝 Looking to Collaborate On  
-- Full Stack MERN + Next.js Projects  
-- Scalable Backend Systems (NestJS / Express)  
-- Web & Mobile App Development  
-- AI-Enhanced Applications  
-- Open Source Contributions  
-
----
-
-### 🤔 Seeking Guidance In  
-- Production Ready UI  
-- Scalable Backend Structure  
-- Advanced Deployment (Docker, CI/CD, Cloud)  
-- AI Tools & Automations  
+### 🤝 Open to Collaborate On  
+- MERN & Next.js Projects  
+- Backend APIs (NestJS / Express)  
+- Web + Mobile Apps  
+- AI-powered apps  
+- Open-source projects
 
 ---
 
 ### 💼 Portfolio  
-👉 **https://frontend-portfolio-masb.netlify.app**
-
-### Recent Project 
-👉 **https://www.adam-palace.com/**
+👉 https://frontend-portfolio-masb.netlify.app  
 
 ---
 
 ### 😄 Pronouns  
-**He/Him**
+He/Him  
 
 ---
 
 ### ⚡ Fun Fact  
-Debugging feels like solving puzzles — and I enjoy every tough bug I crush!  🐛🔥
+Debugging = mini boss fights — and I love winning them! 🐛🔥  
